@@ -1,0 +1,11 @@
+/Users/kz/Documents/Works/c#/Hello/bin/Debug/netcoreapp3.0/Hello
+/Users/kz/Documents/Works/c#/Hello/bin/Debug/netcoreapp3.0/Hello.deps.json
+/Users/kz/Documents/Works/c#/Hello/bin/Debug/netcoreapp3.0/Hello.runtimeconfig.json
+/Users/kz/Documents/Works/c#/Hello/bin/Debug/netcoreapp3.0/Hello.runtimeconfig.dev.json
+/Users/kz/Documents/Works/c#/Hello/bin/Debug/netcoreapp3.0/Hello.dll
+/Users/kz/Documents/Works/c#/Hello/bin/Debug/netcoreapp3.0/Hello.pdb
+/Users/kz/Documents/Works/c#/Hello/obj/Debug/netcoreapp3.0/Hello.csprojAssemblyReference.cache
+/Users/kz/Documents/Works/c#/Hello/obj/Debug/netcoreapp3.0/Hello.AssemblyInfoInputs.cache
+/Users/kz/Documents/Works/c#/Hello/obj/Debug/netcoreapp3.0/Hello.AssemblyInfo.cs
+/Users/kz/Documents/Works/c#/Hello/obj/Debug/netcoreapp3.0/Hello.dll
+/Users/kz/Documents/Works/c#/Hello/obj/Debug/netcoreapp3.0/Hello.pdb
